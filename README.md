@@ -33,3 +33,4 @@ The time to retrieve all the statistics is on the order of 1s.
 
 ### Credits
 Credit should be given to [Stackoverflow](https://stackoverflow.com) and to [Udacity](https://udacity.com)
+**Other than that, this is my own work.**
