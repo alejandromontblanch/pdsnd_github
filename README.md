@@ -28,5 +28,8 @@ Files needed for this project are:
 * washington.csv
 They can be obtained from [Udacity](https://udacity.com)
 
+### Time to run
+The time to retrieve all the statistics is on the order of 1s.
+
 ### Credits
 Credit should be given to [Stackoverflow](https://stackoverflow.com) and to [Udacity](https://udacity.com)
