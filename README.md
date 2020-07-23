@@ -20,6 +20,7 @@ This is the bikeshare project from Udacity.
     * Earliest, oldest and most common year of birth (if available)
 * The programme will then ask the user if (s)he wants to see the raw data.
 * The programme will then ask the user if (s) wants to run the whole thing again
+_This project is based on the use of functions, to shorten code_
 
 ### Files used
 Files needed for this project are:
