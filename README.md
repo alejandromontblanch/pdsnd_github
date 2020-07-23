@@ -1,15 +1,32 @@
 ### Date created
-Include the date you created this project and README file.
+This project as well as this README file were created on July 23rd, 2020.
 
-### Project Title
-Replace the Project Title
+### Bikshare project
+This is the bikeshare project from Udacity.
 
 ### Description
-Describe what your project is about and what it does
+* This project asks the user for a city: Washington, New York or Chicago.
+* Then it asks the user how to filter the data: by month, day, both or none.
+    * If by month, the programme asks which month.
+    * If by day, the programme asks which day.
+    * If both, the programme asks both month and day.
+    * If none, the programme will not ask.
+* The programme will then produce basic statistics based on the above choices:
+    * Most popular month, day and hour.
+    * Most popular departure and arrival stations.
+    * Most popular departure-arrival station combo.
+    * Total and average trip duration.
+    * Type of users by number, gender (if available)
+    * Earliest, oldest and most common year of birth (if available)
+* The programme will then ask the user if (s)he wants to see the raw data.
+* The programme will then ask the user if (s) wants to run the whole thing again
 
 ### Files used
-Include the files used
+Files needed for this project are:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+They can be obtained from [Udacity](https://udacity.com)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit should be given to [Stackoverflow](https://stackoverflow.com) and to [Udacity](https://udacity.com)
