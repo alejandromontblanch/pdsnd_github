@@ -4,6 +4,7 @@ This project as well as this README file were created on July 23rd, 2020.
 ### Bikshare project
 This is the bikeshare project from Udacity.
 This is a line
+This is yet another line
 
 ### Description
 * This project asks the user for a city: Washington, New York or Chicago.
