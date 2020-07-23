@@ -30,7 +30,7 @@ Files needed for this project are:
 They can be obtained from [Udacity](https://udacity.com)
 
 ### Time to run
-The time to retrieve all the statistics is on the order of 1s.
+The time to retrieve all the statistics is on the order of 1s. **Please note this depends on your computer!**
 
 ### Credits
 Credit should be given to [Stackoverflow](https://stackoverflow.com) and to [Udacity](https://udacity.com)
