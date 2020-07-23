@@ -22,6 +22,13 @@ This is the bikeshare project from Udacity.
 * The programme will then ask the user if (s) wants to run the whole thing again
 _This project is based on the use of functions, to shorten code_
 
+### Files used
+Files needed for this project are:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+They can be obtained from [Udacity](https://udacity.com)
+
 ### Credits
 Credit should be given to [Stackoverflow](https://stackoverflow.com) and to [Udacity](https://udacity.com)
 **Other than that, this is my own work.**
